@@ -1,0 +1,13 @@
+{
+  "name": "com.barmaglot-is-here.editorextensions",
+  "displayName": "EditorExtensions",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "keywords": [
+    "editor",
+    "extensions"
+  ],
+  "description": "Some usefull things for Unity Editor",
+  "license": "The Unlicense",
+  "licensesUrl": "https://github.com/Barmaglot-is-here/UnityEditor.Extensions/blob/master/LICENSE.txt"
+}
